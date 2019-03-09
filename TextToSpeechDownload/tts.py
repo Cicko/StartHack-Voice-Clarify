@@ -14,14 +14,13 @@ If you prefer, you can hardcode your subscription key as a string and remove
 the provided conditional statement. However, we do recommend using environment
 variables to secure your subscription keys. The environment variable is
 set to SPEECH_SERVICE_KEY in our sample.
-
-For example:
-subscription_key = "Your-Key-Goes-Here"
 '''
+
+subscription_key = "28024669eb534248bcf6e42329a07558"
 
 if 'SPEECH_SERVICE_KEY' in os.environ:
     subscription_key = os.environ['SPEECH_SERVICE_KEY']
-else:
+elif subscription_key == None:
     print('Environment variable for your subscription key is not set.')
     exit()
 
