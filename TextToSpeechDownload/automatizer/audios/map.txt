@@ -1,0 +1,75 @@
+The_quick_brown_fox_jumps_over_the_lazy_dog..wav	The quick brown fox jumps over the lazy dog.
+My_Mum_tries_to_be_cool_by_saying_that_she_likes_all_the_same_things_that_I_do..wav	My Mum tries to be cool by saying that she likes all the same things that I do.
+If_the_Easter_Bunny_and_the_Tooth_Fairy_had_babies_would_they_take_your_teeth_and_leave_chocolate_for_you?.wav	If the Easter Bunny and the Tooth Fairy had babies would they take your teeth and leave chocolate for you?
+A_purple_pig_and_a_green_donkey_flew_a_kite_in_the_middle_of_the_night_and_ended_up_sunburnt..wav	A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt.
+Writing_a_list_of_random_sentences_is_harder_than_I_initially_thought_it_would_be..wav	Writing a list of random sentences is harder than I initially thought it would be.
+Where_do_random_thoughts_come_from?.wav	Where do random thoughts come from?
+Lets_all_be_unique_together_until_we_realise_we_are_all_the_same..wav	Lets all be unique together until we realise we are all the same.
+I_love_eating_toasted_cheese_and_tuna_sandwiches..wav	I love eating toasted cheese and tuna sandwiches.
+When_I_was_little_I_had_a_car_door_slammed_shut_on_my_hand._I_still_remember_it_quite_vividly..wav	When I was little I had a car door slammed shut on my hand. I still remember it quite vividly.
+The_clock_within_this_blog_and_the_clock_on_my_laptop_are_1_hour_different_from_each_other..wav	The clock within this blog and the clock on my laptop are 1 hour different from each other.
+I_often_see_the_time_11:11_or_12:34_on_clocks..wav	I often see the time 11:11 or 12:34 on clocks.
+This_is_the_last_random_sentence_I_will_be_writing_and_I_am_going_to_stop_mid-sent.wav	This is the last random sentence I will be writing and I am going to stop mid-sent
+We_need_to_rent_a_room_for_our_party..wav	We need to rent a room for our party.
+Yeah,_I_think_it's_a_good_environment_for_learning_English..wav	Yeah, I think it's a good environment for learning English.
+The_lake_is_a_long_way_from_here..wav	The lake is a long way from here.
+This_is_a_Japanese_doll..wav	This is a Japanese doll.
+I_hear_that_Nancy_is_very_pretty..wav	I hear that Nancy is very pretty.
+She_was_too_short_to_see_over_the_fence..wav	She was too short to see over the fence.
+He_told_us_a_very_exciting_adventure_story..wav	He told us a very exciting adventure story.
+Christmas_is_coming..wav	Christmas is coming.
+Wow,_does_that_work?.wav	Wow, does that work?
+She_always_speaks_to_him_in_a_loud_voice..wav	She always speaks to him in a loud voice.
+I_want_more_detailed_information..wav	I want more detailed information.
+I_checked_to_make_sure_that_he_was_still_alive..wav	I checked to make sure that he was still alive.
+I'd_rather_be_a_bird_than_a_fish..wav	I'd rather be a bird than a fish.
+Mary_plays_the_piano..wav	Mary plays the piano.
+She_did_her_best_to_help_him..wav	She did her best to help him.
+She_borrowed_the_book_from_him_many_years_ago_and_hasn't_yet_returned_it..wav	She borrowed the book from him many years ago and hasn't yet returned it.
+She_wrote_him_a_long_letter,_but_he_didn't_read_it..wav	She wrote him a long letter, but he didn't read it.
+Please_wait_outside_of_the_house..wav	Please wait outside of the house.
+Two_seats_were_vacant..wav	Two seats were vacant.
+Tom_got_a_small_piece_of_pie..wav	Tom got a small piece of pie.
+She_folded_her_handkerchief_neatly..wav	She folded her handkerchief neatly.
+We_have_a_lot_of_rain_in_June..wav	We have a lot of rain in June.
+Hurry!.wav	Hurry!
+Is_it_free?.wav	Is it free?
+I_am_never_at_home_on_Sundays..wav	I am never at home on Sundays.
+Don't_step_on_the_broken_glass..wav	Don't step on the broken glass.
+She_advised_him_to_come_back_at_once..wav	She advised him to come back at once.
+Let_me_help_you_with_your_baggage..wav	Let me help you with your baggage.
+The_book_is_in_front_of_the_table..wav	The book is in front of the table.
+How_was_the_math_test?.wav	How was the math test?
+The_mysterious_diary_records_the_voice..wav	The mysterious diary records the voice.
+The_stranger_officiates_the_meal..wav	The stranger officiates the meal.
+The_shooter_says_goodbye_to_his_love..wav	The shooter says goodbye to his love.
+A_glittering_gem_is_not_enough..wav	A glittering gem is not enough.
+The_memory_we_used_to_share_is_no_longer_coherent..wav	The memory we used to share is no longer coherent.
+The_old_apple_revels_in_its_authority..wav	The old apple revels in its authority.
+Rock_music_approaches_at_high_velocity..wav	Rock music approaches at high velocity.
+Sixty-Four_comes_asking_for_bread..wav	Sixty-Four comes asking for bread.
+Abstraction_is_often_one_floor_above_you..wav	Abstraction is often one floor above you.
+The_river_stole_the_gods..wav	The river stole the gods.
+Joe_made_the_sugar_cookies;_Susan_decorated_them..wav	Joe made the sugar cookies; Susan decorated them.
+The_sky_is_clear;_the_stars_are_twinkling..wav	The sky is clear; the stars are twinkling.
+The_waves_were_crashing_on_the_shore;_it_was_a_lovely_sight..wav	The waves were crashing on the shore; it was a lovely sight.
+There_were_white_out_conditions_in_the_town;_subsequently,_the_roads_were_impassable..wav	There were white out conditions in the town; subsequently, the roads were impassable.
+Check_back_tomorrow;_I_will_see_if_the_book_has_arrived..wav	Check back tomorrow; I will see if the book has arrived.
+He_said_he_was_not_there_yesterday;_however,_many_people_saw_him_there..wav	He said he was not there yesterday; however, many people saw him there.
+I_am_happy_to_take_your_donation;_any_amount_will_be_greatly_appreciated..wav	I am happy to take your donation; any amount will be greatly appreciated.
+She_only_paints_with_bold_colors;_she_does_not_like_pastels..wav	She only paints with bold colors; she does not like pastels.
+She_works_two_jobs_to_make_ends_meet;_at_least,_that_was_her_reason_for_not_having_time_to_join_us..wav	She works two jobs to make ends meet; at least, that was her reason for not having time to join us.
+Malls_are_great_places_to_shop;_I_can_find_everything_I_need_under_one_roof..wav	Malls are great places to shop; I can find everything I need under one roof.
+Italy_is_my_favorite_country;_in_fact,_I_plan_to_spend_two_weeks_there_next_year..wav	Italy is my favorite country; in fact, I plan to spend two weeks there next year.
+He_turned_in_the_research_paper_on_Friday;_otherwise,_he_would_have_not_passed_the_class..wav	He turned in the research paper on Friday; otherwise, he would have not passed the class.
+She_did_not_cheat_on_the_test,_for_it_was_not_the_right_thing_to_do..wav	She did not cheat on the test, for it was not the right thing to do.
+I_think_I_will_buy_the_red_car,_or_I_will_lease_the_blue_one..wav	I think I will buy the red car, or I will lease the blue one.
+I_really_want_to_go_to_work,_but_I_am_too_sick_to_drive..wav	I really want to go to work, but I am too sick to drive.
+I_am_counting_my_calories,_yet_I_really_want_dessert..wav	I am counting my calories, yet I really want dessert.
+He_ran_out_of_money,_so_he_had_to_stop_playing_poker..wav	He ran out of money, so he had to stop playing poker.
+They_got_there_early,_and_they_got_really_good_seats..wav	They got there early, and they got really good seats.
+There_was_no_ice_cream_in_the_freezer,_nor_did_they_have_money_to_go_to_the_store..wav	There was no ice cream in the freezer, nor did they have money to go to the store.
+Everyone_was_busy,_so_I_went_to_the_movie_alone..wav	Everyone was busy, so I went to the movie alone.
+Should_we_start_class_now,_or_should_we_wait_for_everyone_to_get_here?.wav	Should we start class now, or should we wait for everyone to get here?
+Cats_are_good_pets,_for_they_are_clean_and_are_not_noisy..wav	Cats are good pets, for they are clean and are not noisy.
+We_have_never_been_to_Asia,_nor_have_we_visited_Africa..wav	We have never been to Asia, nor have we visited Africa.
